@@ -24,3 +24,4 @@ A repository for all the github operations
 References:
 1. https://github.com/joshnh/Git-Commands
 2. https://www.geeksforgeeks.org/useful-github-commands/
+3. https://cli.github.com/manual/
